@@ -299,7 +299,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "a531a5d3-8149-4d81-9a3c-13d1a685bf6a")
 	)
-	(model "${KIPRJMOD}/Library/3D/PRESSURE-BMP180_LGA7_.step"
+	(model "${KIPRJMOD}/Kicad-Lib/3D/PRESSURE-BMP180_LGA7_.step"
 		(offset
 			(xyz 0 0 0)
 		)
